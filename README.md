@@ -1,13 +1,13 @@
 - 👋 Hi, I'm @jonasezequiel
 - 🌱 I am currently learning Java and JavaScript
-- 📫 How to contact me jonasmachado11@gmail.com
+- 📫 How to contact me:  jonasmachado11@gmail.com
 
 
 Conecte-se comigo:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/jonas-ezequiel-539366134/)
 
-Idiomas e ferramentas:
+Ferramentas:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>]()
