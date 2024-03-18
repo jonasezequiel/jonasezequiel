@@ -2,6 +2,10 @@
 - 🌱 I am currently learning Java and JavaScript
 - 📫 How to contact me:  jonasmachado11@gmail.com
 
+##
+
+![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasezequiel&show_icons=true&theme=highcontrast)
+
 
 Conecte-se comigo:
 
