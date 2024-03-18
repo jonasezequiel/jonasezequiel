@@ -4,7 +4,7 @@
 
 ##
 
-![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasezequiel&show_icons=true&theme=highcontrast)
+![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasezequiel&show_icons=true&theme=dracula)
 
 
 Conecte-se comigo:
