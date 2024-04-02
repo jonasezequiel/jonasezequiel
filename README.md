@@ -3,17 +3,11 @@
 - 📫 How to contact me:  jonasmachado11@gmail.com
 
 ##
+ ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasezequiel&show_icons=true&theme=dracula)
 
-<div style="display: inline-block;">
-  <a href="https://github.com/jonasezequiel">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasezequiel&show_icons=true&theme=dracula" style="max-width: 100%;"/>
-  </a>
-</div>
-<div style="display: inline-block;">
-  <a href="https://github.com/jonasezequiel">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasezequiel&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;"/>
-  </a>
-</div>
+
+
+
 
 
 
